@@ -1,2 +1,2 @@
 # Caf-Fiend
-This milestone 3 project is about creating a coffee shop app that allows customers to order and purchase. The owner of the coffee shop will be able to keep up with inventory and operations. MVP will be to get the customer to create an account that keeps up with their orders through out time, as well as the client. 
+This milestone 3 project is about creating a coffee ordering app that allows customers to order and purchase coffee. The client of the coffee shop will be able to keep up with inventory and operations. MVP will be to get the customers to create an account that keeps up with their orders through out time, as well as the client. 
